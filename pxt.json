@@ -4,8 +4,8 @@
     "description": "Blocks to simplify using Kitronik MOVE Motor board in PXT",
     "license": "MIT",
     "dependencies": {
-        "ws2812b": "github:KitronikLtd/pxt-ws2812b#v0.0.5",
-        "core": "*"
+        "core": "*",
+        "ws2812b": "github:AlasdairAtKitronik/pxt-ws2812b#v0.0.6"
     },
     "files": [
         "main.ts",
